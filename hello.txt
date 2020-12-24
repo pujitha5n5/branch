@@ -1,3 +1,2 @@
 hello world
-
- this is branch2 update
+this is branch1 text
